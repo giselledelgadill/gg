@@ -1,0 +1,41 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ body{
+   background-image: url("pokemon.0.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ .notes{
+   margin-right: 150px;
+   color:dodgerblue;
+   font-size: 25px;
+ }
+ .copy_right_footer{
+   bottom: 0;
+   position: fixed;
+   color: lightslategrey;
+ }
+ canvas{
+   border: 5px dotted green;
+   box-shadow: 5px 5px 5px dodgerblue;
+ }
